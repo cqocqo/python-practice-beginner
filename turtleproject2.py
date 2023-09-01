@@ -5,12 +5,12 @@ turtle.color('red')
 turtle.bgcolor('black')
 turtle.pensize(2)
 
-# kou 1
+# Kou 1
 for i in range(4):
     turtle.forward(50)
     turtle.left(90)
 
-# heng 1 inside the kou
+# Heng 1 inside the kou
 turtle.penup()
 x = 0
 y = 25
