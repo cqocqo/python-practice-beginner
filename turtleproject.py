@@ -34,7 +34,7 @@ turtle.speed(50)  # speed on pen
 #         turtle.left(10)
 # turtle.done()
 
-# draw avenger's logo
+# The Deathly Hallows symbol from Harry Potter
 turtle.circle(85)
 turtle.forward(150)
 turtle.left(120)
